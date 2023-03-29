@@ -1,0 +1,21 @@
+.Button {
+   background-color:  rgba(240, 240, 21, 0.803);
+   width: 80px;
+   height: 80px;
+   border-radius: 90px;
+   cursor: pointer;
+    display: block;
+    padding: 10px 20px;
+    justify-content: center;
+    align-items: center;
+    background-position: center;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    bottom: 20px;
+    background-size: contain;
+}
+
+.Button:hover {
+    background-color: var(--purple);
+    color: white;
+}

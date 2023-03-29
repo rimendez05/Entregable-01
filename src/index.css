@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+:root {
+  --purple: #25063F;
+}
+
+body {
+  margin: 0;
+  
+}
+
+html {
+  box-sizing: border-box;
+  font-family: 'Press Start 2P', cursive;
+
+}
+
+*, *::after, *::before {
+  box-sizing: inherit;
+}
+
+h1, 
+h2, 
+h3, 
+h4, 
+h5, 
+h6 {
+  margin: 0;
+}
